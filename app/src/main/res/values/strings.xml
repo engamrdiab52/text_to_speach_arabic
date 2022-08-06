@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextToSpeach_1</string>
+    <string name="speak">speak</string>
+    <string name="geeksforgeeks">GeeksforGeeks</string>
+</resources>
